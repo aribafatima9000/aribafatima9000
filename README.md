@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=30&center=true&vCenter=true&width=500&height=70&duration=4000&lines=OPERATIVE+STATUS+ACTIVE;+Ariba Fatima;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=30&center=true&vCenter=true&width=500&height=70&duration=4000&lines=OPERATIVE+STATUS+ACTIVE;Ariba+Fatima;" />
 </h1>
 <h3 align="center">  Data Science | AI | Cybersecurity | Defense Systems</h3>
 
