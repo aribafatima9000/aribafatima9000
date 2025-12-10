@@ -14,7 +14,7 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=bahattinyunus&label=Profile%20Views&color=556B2F&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ariba&label=Profile%20Views&color=556B2F&style=flat-square" alt="Profile Views" />
 </p>
 
 ---
@@ -28,7 +28,7 @@
 
 ### 🔗 Connect with Me
 <p align="center">
-  <a href="https://www.linkedin.com/in/bahattin-yunus-%C3%A7etin/" target="_blank">
+  <a href="https://www.linkedin.com/feed/?trk=hb_signin" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/aribafatima9000" target="_blank">
@@ -40,7 +40,7 @@
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bahattinyunus&theme=dark&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ariba&theme=dark&no-frame=false&no-bg=false&margin-w=4" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -152,26 +152,26 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bahattinyunus&show_icons=true&theme=dark" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bahattinyunus&layout=compact&theme=dark" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ariba&show_icons=true&theme=dark" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ariba&layout=compact&theme=dark" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bahattinyunus&theme=dark" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ariba&theme=dark" height="180"/>
 </p>
 
 ---
 
 ### 📈 GitHub Activity Graph
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bahattinyunus&theme=react-dark&bg_color=0D1117&color=6B8E23&line=556B2F&point=8B7355&area=true&hide_border=true" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ariba&theme=react-dark&bg_color=0D1117&color=6B8E23&line=556B2F&point=8B7355&area=true&hide_border=true" alt="GitHub Activity Graph" />
 </p>
 
 ---
 
 ### 🐍 Contribution Snake
 <p align="center">
-  <img src="https://raw.githubusercontent.com/bahattinyunus/bahattinyunus/output/github-contribution-grid-snake.svg" alt="snake animation"/>
+  <img src="https://raw.githubusercontent.com/ariba/ariba/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
 ---
@@ -194,17 +194,17 @@
 
 ### 📝 GitHub Metrics
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bahattinyunus&theme=2077" alt="GitHub Metrics" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ariba&theme=2077" alt="GitHub Metrics" />
 </p>
 
 ### 📊 Detailed GitHub Stats
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bahattinyunus&theme=2077" alt="Repos Per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bahattinyunus&theme=2077" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ariba&theme=2077" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ariba&theme=2077" alt="Most Commit Language" />
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bahattinyunus&theme=2077" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bahattinyunus&theme=2077&utcOffset=3" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ariba&theme=2077" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ariba&theme=2077&utcOffset=3" alt="Productive Time" />
 </p>
 
 ---
@@ -248,7 +248,7 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=bahattinyunus&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ariba&theme=dark&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ---
