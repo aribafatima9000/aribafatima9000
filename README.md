@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=30&center=true&vCenter=true&width=500&height=70&duration=4000&lines=OPERATIVE+STATUS+ACTIVE;+Bahattin+Yunus+Çetin;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=30&center=true&vCenter=true&width=500&height=70&duration=4000&lines=OPERATIVE+STATUS+ACTIVE;+Ariba Fatima;" />
 </h1>
 <h3 align="center">  Data Science | AI | Cybersecurity | Defense Systems</h3>
 
@@ -31,7 +31,7 @@
   <a href="https://www.linkedin.com/in/bahattin-yunus-%C3%A7etin/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/bahattinyunus" target="_blank">
+  <a href="https://github.com/aribafatima9000" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-2F4F2F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </p>
