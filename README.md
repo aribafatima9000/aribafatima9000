@@ -22,7 +22,7 @@
 ### 🎖️ Operative Briefing
 - 🎓 **Rank**: Web Scraping Operative | **Specialization**: Data Science, AI, Machine Learning  
 - 🔍 **Tactical Capabilities**: Advance Statistics & mathematical operations for AI with Data Science  
-- 🎯 **Primary Mission**: Big data analytics, neural networks, and AI-powered Business sulotion  
+- 🎯 **Primary Mission**: Big data analytics, neural networks, and AI-powered Business solution  
 - 📚 **Training Status**: Continuous skill advancement and tactical knowledge acquisition  
 - ⚡ **Deployment**: Active in tech industry operations  
 
@@ -187,7 +187,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Web%20Scraping-556B2F?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Advance%20Statistics-6B8E23?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Business%20sulotion-2F4F2F?style=for-the-badge&logo=shield&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Business%20solution-2F4F2F?style=for-the-badge&logo=shield&logoColor=white"/>
 </p>
 
 ---
