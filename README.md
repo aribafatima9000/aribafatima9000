@@ -3,7 +3,7 @@
 <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Orbitron&size=30&center=true&vCenter=true&width=500&height=70&duration=4000&lines=OPERATIVE+STATUS+ACTIVE;Ariba+Fatima;" />
 </h1>
-<h3 align="center">  Data Science | AI | Cybersecurity | Defense Systems</h3>
+<h3 align="center">  Data Science | AI | Machine Learning | Data Analytics</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/RANK-Software%20Engineer-556B2F?style=for-the-badge&logo=shield&logoColor=white" alt="Rank"/>
@@ -20,9 +20,9 @@
 ---
 
 ### 🎖️ Operative Briefing
-- 🎓 **Rank**: Software Engineering Operative | **Specialization**: Data Science, AI, Cybersecurity  
-- 🔍 **Tactical Capabilities**: Advanced software engineering & mathematical operations for AI defense systems  
-- 🎯 **Primary Mission**: Big data analytics, neural networks, and AI-powered cybersecurity defense solutions  
+- 🎓 **Rank**: Web Scraping Operative | **Specialization**: Data Science, AI, Machine Learning  
+- 🔍 **Tactical Capabilities**: Advance Statistics & mathematical operations for AI with Data Science  
+- 🎯 **Primary Mission**: Big data analytics, neural networks, and AI-powered Business sulotion  
 - 📚 **Training Status**: Continuous skill advancement and tactical knowledge acquisition  
 - ⚡ **Deployment**: Active in tech industry operations  
 
@@ -100,10 +100,10 @@
   <img src="https://img.shields.io/badge/Custom%20GPTs-10A37F?style=flat-square&logo=openai&logoColor=white" alt="Custom GPTs"/>
 </p>
 
-#### 🔒 Cybersecurity & Cryptography
+#### 🔒 Machine Learning & Data Analytics
 <p align="center">
-  <img src="https://img.shields.io/badge/Cybersecurity-2F4F2F?style=flat-square&logo=shield&logoColor=white" alt="Cybersecurity"/>
-  <img src="https://img.shields.io/badge/Cryptography-556B2F?style=flat-square&logo=key&logoColor=white" alt="Cryptography"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-2F4F2F?style=flat-square&logo=shield&logoColor=white" alt="Machine Learning"/>
+  <img src="https://img.shields.io/badge/Data%20Analytics-556B2F?style=flat-square&logo=key&logoColor=white" alt="Data Analytics"/>
 </p>
 
 #### 🔧 Development Tools & Version Control
@@ -185,9 +185,9 @@
 
 ### 📈 Currently Learning
 <p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-556B2F?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-6B8E23?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cybersecurity-2F4F2F?style=for-the-badge&logo=shield&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Web%20Scraping-556B2F?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Advance%20Statistics-6B8E23?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Business%20sulotion-2F4F2F?style=for-the-badge&logo=shield&logoColor=white"/>
 </p>
 
 ---
@@ -230,10 +230,10 @@
 ### 🎖️ Tactical Skills & Specializations
 <p align="center">
   <img src="https://img.shields.io/badge/COMBAT%20READY-Data%20Science-556B2F?style=flat-square&logo=chart-line&logoColor=white" alt="Data Science"/>
-  <img src="https://img.shields.io/badge/OPERATIONAL-AI%20%26%20ML-6B8E23?style=flat-square&logo=brain&logoColor=white" alt="AI/ML"/>
-  <img src="https://img.shields.io/badge/DEFENSE%20ACTIVE-Cybersecurity-2F4F2F?style=flat-square&logo=shield&logoColor=white" alt="Cybersecurity"/>
-  <img src="https://img.shields.io/badge/DEPLOYED-Web%20Development-8B7355?style=flat-square&logo=code&logoColor=white" alt="Web Dev"/>
-  <img src="https://img.shields.io/badge/TACTICAL-IoT%20%26%20Hardware-556B2F?style=flat-square&logo=chip&logoColor=white" alt="IoT"/>
+  <img src="https://img.shields.io/badge/OPERATIONAL-AI%20with%20Data%20Science-6B8E23?style=flat-square&logo=brain&logoColor=white" alt="AI with Data Science"/>
+  <img src="https://img.shields.io/badge/DEFENSE%20ACTIVE-Machine%20Learning-2F4F2F?style=flat-square&logo=shield&logoColor=white" alt="Machine Learning"/>
+  <img src="https://img.shields.io/badge/DEPLOYED-Web%20Scraping-8B7355?style=flat-square&logo=code&logoColor=white" alt="Web Scraping"/>
+  <img src="https://img.shields.io/badge/TACTICAL-Advance%20Statistics-556B2F?style=flat-square&logo=chip&logoColor=white" alt="Advance Statistics"/>
 </p>
 
 ---
