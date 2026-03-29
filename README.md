@@ -6,7 +6,7 @@
 <h3 align="center">  Data Science | AI | Machine Learning | Data Analytics</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/RANK-Software%20Engineer-556B2F?style=for-the-badge&logo=shield&logoColor=white" alt="Rank"/>
+  <img src="https://img.shields.io/badge/RANK-Machine%20Learning-556B2F?style=for-the-badge&logo=shield&logoColor=white" alt="Rank"/>
   <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-6B8E23?style=for-the-badge&logo=check-circle&logoColor=white" alt="Status"/>
   <img src="https://img.shields.io/badge/CLEARANCE-ACTIVE-2F4F2F?style=for-the-badge&logo=lock&logoColor=white" alt="Clearance"/>
 </p>
