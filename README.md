@@ -50,7 +50,6 @@
   <!-- Programming Languages -->
   <a href="https://www.python.org"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/></a>
-  <a href="https://en.cppreference.com/w/c/language"><img src="https://img.shields.io/badge/C-555555?style=for-the-badge&logo=c&logoColor=white"/></a>
   <!-- Web Technologies -->
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/></a>
@@ -60,11 +59,6 @@
   <!-- DevOps & Tools -->
   <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/></a>
   <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/></a>
-  <a href="https://www.linux.org/"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/></a>
-  <!-- Hardware & IoT -->
-  <a href="https://www.arduino.cc/"><img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/></a>
-  <a href="https://www.raspberrypi.org/"><img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white"/></a>
-  <a href="https://micropython.org/"><img src="https://img.shields.io/badge/MicroPython-2D2D2D?style=for-the-badge&logo=micropython&logoColor=white"/></a>
   <!-- Other Tools -->
   <a href="https://smallbasic.github.io/"><img src="https://img.shields.io/badge/Small%20Basic-68217A?style=for-the-badge&logo=small-basic&logoColor=white"/></a>
   <a href="https://mblock.makeblock.com/"><img src="https://img.shields.io/badge/mBlock-0096D6?style=for-the-badge&logo=makeblock&logoColor=white"/></a>
@@ -79,9 +73,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python%201-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python 1"/>
   <img src="https://img.shields.io/badge/Python%202-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python 2"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" alt="C++"/>
-  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go"/>
-  <img src="https://img.shields.io/badge/C-555555?style=flat-square&logo=c&logoColor=white" alt="C"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
 </p>
 
@@ -110,15 +101,6 @@
   <img src="https://img.shields.io/badge/IT%20Fundamentals-007ACC?style=flat-square&logo=microsoft&logoColor=white" alt="IT"/>
   <img src="https://img.shields.io/badge/Operating%20Systems-0078D4?style=flat-square&logo=windows&logoColor=white" alt="OS"/>
 </p>
-
-#### ⚡ Hardware & IoT
-<p align="center">
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white" alt="Arduino"/>
-  <img src="https://img.shields.io/badge/MicroPython-2D2D2D?style=flat-square&logo=python&logoColor=white" alt="MicroPython"/>
-  <img src="https://img.shields.io/badge/Proteus-00A8E8?style=flat-square&logo=circuit&logoColor=white" alt="Proteus"/>
-  <img src="https://img.shields.io/badge/Small%20Basic-68217A?style=flat-square&logo=microsoft&logoColor=white" alt="Small Basic"/>
-</p>
-
 <details>
 <summary><b>📋 Detailed Certification Records</b></summary>
 
